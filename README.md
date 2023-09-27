@@ -1,4 +1,4 @@
-# Geometry Dash - Peli asentaminen Steamista
+# Peli asentaminen Steamista Ilman että saat (Järjestelmänvalvoja on estänyt sovelluksen) popupin!
 
 Voit käyttää näitä ohjeita asentaaksesi Geometry Dash -pelin Steamista ja lisätä siihen erityisiä käynnistysasetuksia. Näin voit pelata peliä Mikroaaltouunipeleihin.exe:n avulla.
 
@@ -12,12 +12,13 @@ Voit käyttää näitä ohjeita asentaaksesi Geometry Dash -pelin Steamista ja l
    - Valitse "Hallinnoi" ja sen jälkeen "Selaa paikallisia tiedostoja".
 
 3. **Käynnistä Mikroaaltouunipeleihin.exe**:
-   - Etsi "Rahaa Geometry Dash.exe" ja käynnistä se.
+   - Etsi "Geometry Dash.exe" ja raahaa se "Mikroaaltouunipeleihin.exe" päälle.
    - Odota, kunnes näet viestin "(Mikroaaltouunipeleihin): Valmista tuli!".
 
 4. **Kopioi käynnistysasetukset**:
    - Kopioi "Mikroaaltouunipeleihin.exe":n käynnistysasetukset leikepöydälle, jotta voit käyttää niitä myöhemmin.
-
+   - Sovellus siis yrittää itsestään kopioida käynistysasetukset automaattisesti leikepöydälle, mikäli ei niin näet ne konsolissa.
+     
 5. **Lisää käynnistysasetukset Steamissa**:
    - Siirry takaisin Steamiin ja Geometry Dashin asetuksiin.
    - Valitse "Asetusratas" uudelleen.
@@ -31,3 +32,7 @@ Voit käyttää näitä ohjeita asentaaksesi Geometry Dash -pelin Steamista ja l
 Sama menettely voidaan suorittaa muiden sovellusten kanssa käyttäen "Mikroaaltouuni.exe" -tiedostoa, sillä se toimii paremmin sovellusten kanssa. Prosessi on samanlainen kuin pelin asennuksessa.
 
 Muista, että nämä ohjeet saattavat muuttua ajan myötä pelin tai sovelluksen päivitysten myötä. Seuraa tarvittaessa pelin tai sovelluksen virallisia ohjeita ja päivityksiä.
+
+###### KÄYTÄ OMALLA RISKILLÄ, EN OLE VASTUUSSA TÄMÄ ON TEHTY VAIN ESIMERKKINÄ JOKA MENEE KAMIT:LLE Korjattavaksi. 
+###### KÄYTÄ OMALLA RISKILLÄ, EN OLE VASTUUSSA TÄMÄ ON TEHTY VAIN ESIMERKKINÄ JOKA MENEE KAMIT:LLE Korjattavaksi. 
+###### KÄYTÄ OMALLA RISKILLÄ, EN OLE VASTUUSSA TÄMÄ ON TEHTY VAIN ESIMERKKINÄ JOKA MENEE KAMIT:LLE Korjattavaksi. 
