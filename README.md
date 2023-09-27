@@ -1,6 +1,7 @@
-# Peli asentaminen Steamista Ilman että saat (Järjestelmänvalvoja on estänyt sovelluksen) popupin!
+### Peli asentaminen Steamista Ilman että saat (Järjestelmänvalvoja on estänyt sovelluksen) popupin!
 
-Voit käyttää näitä ohjeita asentaaksesi Geometry Dash -pelin Steamista ja lisätä siihen erityisiä käynnistysasetuksia. Näin voit pelata peliä Mikroaaltouunipeleihin.exe:n avulla.
+Voit käyttää näitä ohjeita asentaaksesi Geometry Dash -pelin Steamista ja lisätä siihen erityisiä käynnistysasetuksia. 
+Näin voit pelata peliä Mikroaaltouunipeleihin.exe:n avulla.
 
 1. **Lataa Geometry Dash Steamista**:
    - Avaa Steam ja etsi Geometry Dash.
