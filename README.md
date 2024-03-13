@@ -34,6 +34,6 @@ Sama menettely voidaan suorittaa muiden sovellusten kanssa käyttäen "Mikroaalt
 
 Muista, että nämä ohjeet saattavat muuttua ajan myötä pelin tai sovelluksen päivitysten myötä. Seuraa tarvittaessa pelin tai sovelluksen virallisia ohjeita ja päivityksiä.
 
-###### KÄYTÄ OMALLA RISKILLÄ, EN OLE VASTUUSSA TÄMÄ ON TEHTY VAIN ESIMERKKINÄ JOKA MENEE KAMIT:LLE Korjattavaksi. 
-###### KÄYTÄ OMALLA RISKILLÄ, EN OLE VASTUUSSA TÄMÄ ON TEHTY VAIN ESIMERKKINÄ JOKA MENEE KAMIT:LLE Korjattavaksi. 
-###### KÄYTÄ OMALLA RISKILLÄ, EN OLE VASTUUSSA TÄMÄ ON TEHTY VAIN ESIMERKKINÄ JOKA MENEE KAMIT:LLE Korjattavaksi. 
+###### KÄYTÄ OMALLA RISKILLÄ, EN OLE VASTUUSSA TÄMÄ ON TEHTY VAIN ESIMERKKINÄ. 
+###### KÄYTÄ OMALLA RISKILLÄ, EN OLE VASTUUSSA TÄMÄ ON TEHTY VAIN ESIMERKKINÄ. 
+###### KÄYTÄ OMALLA RISKILLÄ, EN OLE VASTUUSSA TÄMÄ ON TEHTY VAIN ESIMERKKINÄ. 
